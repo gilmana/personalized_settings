@@ -24,7 +24,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 !b::Send, ^b
 !s::Send, ^s
 !z::Send, ^z
-
+!+n::Send, ^+n
 
 ; BACK AND FORWARD IN BROWSER 
 
